@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611d6db3-50dd-413c-a4c3-22eb05df1299" name="Changes" comment="feature changes to compare branches">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RoadmapForJava2026.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="611d6db3-50dd-413c-a4c3-22eb05df1299" name="Changes" comment="Banking Transaction Analyzer commit in Git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature" />
+        <entry key="$PROJECT_DIR$" value="bank/banking-analyzer" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,6 +54,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -112,6 +107,7 @@
       <workItem from="1772252989640" duration="5455000" />
       <workItem from="1772258738120" duration="6456000" />
       <workItem from="1772302991865" duration="13055000" />
+      <workItem from="1772316262330" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="git changes">
       <option name="closed" value="true" />
@@ -145,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772255380302</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Banking Transaction Analyzer commit in Git">
+      <option name="closed" value="true" />
+      <created>1772316370661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772316370661</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +185,9 @@
     <MESSAGE value="git changes" />
     <MESSAGE value="My first file called Main.java printing Welcome to Git" />
     <MESSAGE value="feature changes to compare branches" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature changes to compare branches" />
+    <MESSAGE value="Banking Transaction Analyzer commit in Git" />
+    <MESSAGE value="Banking Transaction Analyzer commit in Git &#10;- banking-analyzer branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Banking Transaction Analyzer commit in Git &#10;- banking-analyzer branch" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
