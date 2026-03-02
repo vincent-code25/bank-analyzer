@@ -1,6 +1,4 @@
-package RoadmapForJava2026.model;
-
-import RoadmapForJava2026.model.Account;
+package model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

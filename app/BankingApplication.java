@@ -1,8 +1,8 @@
-package RoadmapForJava2026.app;
+package app;
 
-import RoadmapForJava2026.model.Account;
-import RoadmapForJava2026.model.Transaction;
-import RoadmapForJava2026.ui.ConsoleUI;
+import model.Account;
+import model.Transaction;
+import ui.ConsoleUI;
 
 public class BankingApplication {
 

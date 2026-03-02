@@ -1,4 +1,4 @@
-package RoadmapForJava2026.model;
+package model;
 
 public enum TransactionType {
    INCOME("Income"),

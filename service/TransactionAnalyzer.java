@@ -1,8 +1,8 @@
-package RoadmapForJava2026.service;
+package service;
 
-import RoadmapForJava2026.model.Account;
-import RoadmapForJava2026.model.Category;
-import RoadmapForJava2026.model.Transaction;
+import model.Account;
+import model.Category;
+import model.Transaction;
 
 import java.util.Map;
 import java.util.HashMap;

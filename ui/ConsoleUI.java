@@ -1,12 +1,12 @@
 
-package RoadmapForJava2026.ui;
+package ui;
 
-import RoadmapForJava2026.service.ValidationService;
-import RoadmapForJava2026.service.TransactionAnalyzer;
-import RoadmapForJava2026.model.Transaction;
-import RoadmapForJava2026.model.Account;
-import RoadmapForJava2026.model.TransactionType;
-import RoadmapForJava2026.model.Category;
+import service.ValidationService;
+import service.TransactionAnalyzer;
+import model.Transaction;
+import model.Account;
+import model.TransactionType;
+import model.Category;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

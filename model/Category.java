@@ -1,4 +1,5 @@
-package RoadmapForJava2026.model;
+package model;
+
 public enum Category {
    FOOD("Food"),
    RENT("Rent"),

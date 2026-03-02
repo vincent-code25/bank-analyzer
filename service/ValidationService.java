@@ -1,6 +1,6 @@
-package RoadmapForJava2026.service;
+package service;
 
-import RoadmapForJava2026.model.Category;
+import model.Category;
 
 import java.math.BigDecimal;
 
